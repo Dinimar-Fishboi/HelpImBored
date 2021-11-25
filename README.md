@@ -10,9 +10,9 @@ This is an activity generator using OpenWeather and Foursquare API’s to provid
 
 [Live Site](https://dinimar-fishboi.github.io/HelpImBored/)
 
-https://user-images.githubusercontent.com/83541287/126735913-d589f0fc-6350-4810-b8a8-ec4c01f75465.png![image](https://user-images.githubusercontent.com/83541287/143409594-19845353-0259-4e7f-a1b5-4413b211aad8.png)
+![Screen Shot 2021-11-25 at 18 54 23](https://user-images.githubusercontent.com/83541287/143410110-28783213-3a6c-4fb9-9ee8-c3ca8197dec8.png)
 
-https://user-images.githubusercontent.com/83541287/126736052-cf91e417-e17f-4fcb-9e87-2eeba069d551.png![image](https://user-images.githubusercontent.com/83541287/143409669-a4914eab-f574-4b20-9f43-14540cae17fe.png)
+![Screen Shot 2021-11-25 at 18 53 41](https://user-images.githubusercontent.com/83541287/143410133-84698362-2d4b-4b5d-994d-7b74a6cb58d8.png)
 
 
 ## Table of Contents 
